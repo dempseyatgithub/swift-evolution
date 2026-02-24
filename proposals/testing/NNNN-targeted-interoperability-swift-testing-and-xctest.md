@@ -5,7 +5,7 @@
 - Review Manager: TBD
 - Status: **Awaiting implementation**
 - Implementation: [swiftlang/swift-testing#NNNNN](https://github.com/swiftlang/swift-testing/pull/NNNNN)
-- Review: ([pitch](https://forums.swift.org/...))
+- Review: ([pitch](https://forums.swift.org/t/pitch-targeted-interoperability-between-swift-testing-and-xctest/82505))
 
 ## Introduction
 
