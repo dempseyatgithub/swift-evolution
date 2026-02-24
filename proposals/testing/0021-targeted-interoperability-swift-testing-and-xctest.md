@@ -1,10 +1,18 @@
 # Targeted Interoperability between Swift Testing and XCTest
 
-- Proposal: [ST-NNNN](NNNN-xctest-interoperability.md)
+- Proposal: [ST-0021](0021-xctest-interoperability.md)
 - Authors: [Jerry Chen](https://github.com/jerryjrchen)
-- Review Manager: TBD
-- Status: **Awaiting implementation**
-- Implementation: [swiftlang/swift-testing#NNNNN](https://github.com/swiftlang/swift-testing/pull/NNNNN)
+- Review Manager: [Rachel Brindle](https://github.com/younata)
+- Status: **In Review (February 24...March 10, 2026)**
+- Implementation: [swiftlang/swift-testing#1523](https://github.com/swiftlang/swift-testing/pull/1523),
+[swiftlang/swift-testing#1573](https://github.com/swiftlang/swift-testing/pull/1573),
+[swiftlang/swift-testing#1542](https://github.com/swiftlang/swift-testing/pull/1542),
+[swiftlang/swift-testing#1516](https://github.com/swiftlang/swift-testing/pull/1516),
+[swiftlang/swift-testing#1512](https://github.com/swiftlang/swift-testing/pull/1512),
+[swiftlang/swift-testing#1478](https://github.com/swiftlang/swift-testing/pull/1478),
+[swiftlang/swift-testing#1439](https://github.com/swiftlang/swift-testing/pull/1439),
+[swiftlang/swift-testing#1369](https://github.com/swiftlang/swift-testing/pull/1369),
+[swiftlang/swift-corelibs-xctest#525](https://github.com/swiftlang/swift-corelibs-xctest/pull/525)
 - Review: ([pitch](https://forums.swift.org/t/pitch-targeted-interoperability-between-swift-testing-and-xctest/82505))
 
 ## Introduction
