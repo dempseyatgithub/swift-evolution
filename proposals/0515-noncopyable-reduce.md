@@ -1,9 +1,9 @@
 # Allow `reduce` to produce noncopyable results 
 
-* Proposal: [SE-NNNN](NNNN-noncopyable-reduce.md)
+* Proposal: [SE-0515](0515-noncopyable-reduce.md)
 * Authors: [Ben Cohen](https://github.com/airspeedswift)
 * Review Manager: [Joe Groff](https://github.com/jckarter)
-* Status: **Awaiting review**
+* Status: **Active review (February 25...March 10, 2026)**
 * Implementation: [swiftlang/swift#85716](https://github.com/swiftlang/swift/pull/85716)
 
 ## Introduction
